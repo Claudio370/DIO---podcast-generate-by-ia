@@ -54,12 +54,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
+
     <p>&nbsp&nbsp&nbspCláudio Lanari<br>
     &nbsp&nbsp&nbsp
     <a 
